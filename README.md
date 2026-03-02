@@ -30,7 +30,7 @@ Interactive Feedback: Progress bars change color (Green → Orange → Red) base
 
 __🏁 Getting Started:__
 
-Clone the repo: https://github.com/bhumikakaran-05/Mypocket/edit/main/README.md
+Clone the repo: https://github.com/bhumikakaran-05/Mypocket.git
 Install dependencies: npm install
 Run the app: npm run dev
 Build for production: npm run build
