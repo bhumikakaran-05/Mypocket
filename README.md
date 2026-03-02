@@ -35,7 +35,7 @@ Install dependencies: npm install
 Run the app: npm run dev
 Build for production: npm run build
 
-![99cfae5c-a3df-42b5-892b-6d88eb39d8a2](https://github.com/user-attachments/assets/905cf6eb-28eb-4154-8982-ce43941e3312)
+<img width="300" height="600"![99cfae5c-a3df-42b5-892b-6d88eb39d8a2](https://github.com/user-attachments/assets/905cf6eb-28eb-4154-8982-ce43941e3312) />
 ![7bbd9fb9-d01b-4888-99b5-6705eca2a7cd](https://github.com/user-attachments/assets/9a7c2a47-b723-4c07-98c2-ee0005267cd1)
 ![c9ab9b6d-8375-417a-aa7c-c3488d66bfe9](https://github.com/user-attachments/assets/831265bd-f524-40ea-86dd-410c854fc356)
 ![15d35b8e-32e2-4302-b3c6-ba22c5c8a410](https://github.com/user-attachments/assets/473eff96-6c57-4552-9c42-4075eddad640)
