@@ -38,18 +38,18 @@ Build for production: npm run build
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b039b6de-0f91-4ff4-af6b-d30726b57f09" width="250">
-  <img src="https://github.com/user-attachments/assets/4615d0da-6412-4df3-b1c8-77bf3dee5f93" width="250">
-  <img src="https://github.com/user-attachments/assets/66c63173-f736-4826-a313-0d8a3367ac34" width="250">
+  <img src="https://github.com/user-attachments/assets/b039b6de-0f91-4ff4-af6b-d30726b57f09" width="200">
+  <img src="https://github.com/user-attachments/assets/4615d0da-6412-4df3-b1c8-77bf3dee5f93" width="200">
+  <img src="https://github.com/user-attachments/assets/66c63173-f736-4826-a313-0d8a3367ac34" width="200">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef6f1c72-ce2a-4e39-94bb-ade4797498e8" width="250">
-  <img src="https://github.com/user-attachments/assets/0dd5b285-e91a-45b5-a5fc-c5993ce6c11b" width="250">
-  <img src="https://github.com/user-attachments/assets/3723cb6c-eaf7-462f-9a20-3efb481af75b" width="250">
+  <img src="https://github.com/user-attachments/assets/ef6f1c72-ce2a-4e39-94bb-ade4797498e8" width="200">
+  <img src="https://github.com/user-attachments/assets/0dd5b285-e91a-45b5-a5fc-c5993ce6c11b" width="200">
+  <img src="https://github.com/user-attachments/assets/3723cb6c-eaf7-462f-9a20-3efb481af75b" width="200">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86962ff7-d492-491f-a8ee-f7a6387a93e7" width="250">
+  <img src="https://github.com/user-attachments/assets/86962ff7-d492-491f-a8ee-f7a6387a93e7" width="200">
 </p>
 
