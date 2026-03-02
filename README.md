@@ -42,7 +42,7 @@ Build for production: npm run build
 ![511ecf24-4810-4d90-b487-f413804a8379](https://github.com/user-attachments/assets/594d29ed-b8d8-471e-9ec1-343670b8b0d2)
 ![9425c69e-4db8-4d3e-a804-4827e9f766ce](https://github.com/user-attachments/assets/9e5dcc57-b707-4e21-a294-3c68ad4a7fa4)
 ![0a1a1369-5ea6-4764-ba6e-be759f5470ff](https://github.com/user-attachments/assets/170d8f61-21df-4b93-b98a-9158b469e3c3)
-<img width="361" height="662" alt="Screenshot 2026-03-03 000900" src="https://github.com/user-attachments/assets/b04e3998-0f5e-4cd3-93b5-97a32463ca6f" />
+<img width="300" height="600" alt="Screenshot 2026-03-03 000900" src="https://github.com/user-attachments/assets/b04e3998-0f5e-4cd3-93b5-97a32463ca6f" />
 
 
 
