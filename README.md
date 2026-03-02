@@ -35,7 +35,6 @@ Install dependencies: npm install
 Run the app: npm run dev
 Build for production: npm run build
 
-
-![MyPocket app snapshot (11)](https://github.com/user-attachments/assets/b039b6de-0f91-4ff4-af6b-d30726b57f09)
+<img src="https://github.com/user-attachments/assets/b039b6de-0f91-4ff4-af6b-d30726b57f09" width="300">
 
 
