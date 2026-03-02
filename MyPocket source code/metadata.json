@@ -1,0 +1,5 @@
+{
+  "name": "MyPocket",
+  "description": "A monthly expense tracking app for students and bachelors to manage budgets, track spending, and build savings.",
+  "requestFramePermissions": []
+}
