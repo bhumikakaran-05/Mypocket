@@ -1,4 +1,3 @@
-
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
@@ -8,6 +7,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
+      includeAssets: ['icon-192.png', 'icon-512.png'],
       manifest: {
         name: 'MyPocket',
         short_name: 'MyPocket',
@@ -15,6 +15,7 @@ export default defineConfig({
         theme_color: '#0d9488',
         background_color: '#ffffff',
         display: 'standalone',
+        scope: '/',
         start_url: '/',
         icons: [
           {
@@ -32,7 +33,6 @@ export default defineConfig({
     })
   ]
 })
-
 
 //updating above lines from below code for pwa plugin.
 
